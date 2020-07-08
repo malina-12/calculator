@@ -1,10 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the application with two calculators.
+Before you start you need to run the following command:
 
-## Available Scripts
+### `npm i`
 
 In the project directory, you can run:
 
 ### `npm start`
+
+Also, you can uncomment one of two modules in public/index.html to see it in the browser.
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
